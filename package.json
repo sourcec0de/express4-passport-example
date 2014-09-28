@@ -1,0 +1,19 @@
+{
+  "name": "passport-with-daryl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "client-sessions": "^0.7.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.3.3",
+    "express": "^4.9.5",
+    "jade": "^1.7.0",
+    "lodash": "^2.4.1",
+    "passport": "^0.2.1",
+    "passport-local": "^1.0.0"
+  }
+}
