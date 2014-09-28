@@ -16,3 +16,6 @@ This command will start the server
 # it assumes index.js
 nodemon
 ```
+
+Navigate to `http://localhost:3082` in your browser and click on the login link.
+Check `./lib/auth/users.js` for a list of available users and passwords.
