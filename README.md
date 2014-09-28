@@ -1,4 +1,4 @@
-Example Express 4.x with Local Passport Authentication
+Express 4.x with Local Passport Authentication
 ======================================================
 
 #### Getting Started
